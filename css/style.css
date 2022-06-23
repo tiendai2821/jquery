@@ -1,0 +1,29 @@
+#table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#table td, #table th {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px;
+}
+
+form {
+    background-color: rgb(208, 211, 211);
+    border: 2px solid black;
+    width: 30%;
+    margin: auto;
+}
+
+.form-group {
+    text-align: center;
+    margin: 3% 10%;
+}
+
+.button{
+    margin: 5px;
+}
+.edit-group {
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
